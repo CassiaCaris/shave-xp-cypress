@@ -20,7 +20,7 @@
     "cypress": "^15.17.0",
     "express": "^4.19.2",
     "express-joi-validation": "^5.0.1",
-    "joi": "^17.9.1",
+    "joi": "^17.13.7",
     "nodemon": "^2.0.22",
     "pg": "^8.10.0"
   }
